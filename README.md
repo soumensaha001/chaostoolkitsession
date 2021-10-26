@@ -1,4 +1,4 @@
-# prevail_availability_test
+# availability test with chaos toolkit
 
 Clone this repo.
 cd prevail_availability
